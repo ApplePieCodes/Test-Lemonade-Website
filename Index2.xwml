@@ -1,1 +1,8 @@
-Red
+<xwml>
+  <head>
+    <title>Page</title>
+  </head>
+  <body>
+    <background>Green</background>
+  </body>
+</xwml>
