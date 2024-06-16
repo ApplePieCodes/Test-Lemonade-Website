@@ -2,4 +2,7 @@
   <head>
     <title>Page</title>
   </head>
+  <body>
+    <background>Yellow</background>
+  </body>
 </xwml>
