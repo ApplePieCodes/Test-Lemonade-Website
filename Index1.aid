@@ -1,0 +1,9 @@
+<xwml>
+  <info>
+    <title>Page</title>
+  </info>
+  <page>
+    <background>Aquamarine</background>
+    <text fontsize="24" x="20" y="20">Hello Citrus</text>
+  </page>
+</xwml>
