@@ -1,8 +1,8 @@
 <xwml>
-  <head>
+  <info>
     <title>Page</title>
-  </head>
-  <body>
-    <background>Yellow</background>
-  </body>
+  </info>
+  <page>
+    <background>Aquamarine</background>
+  </page>
 </xwml>
