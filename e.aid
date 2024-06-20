@@ -1,0 +1,12 @@
+<aid>
+  <info>
+    <title>Test page</title>
+    <version>1</version>
+    <author>Liam Greenway</author>
+    <language>en</language>
+    <background>Cyan</background>
+  </info>
+  <page>
+    <text size="20">Apples are good</text>
+  </page>
+</aid>
