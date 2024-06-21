@@ -1,0 +1,13 @@
+<aid>
+  <info>
+    <title>Test page</title>
+    <version>1</version>
+    <author>Liam Greenway</author>
+    <language>en</language>
+    <background>Cyan</background>
+  </info>
+  <page>
+    <text size="20">Apples are good</text>
+    <image radius="12">https://t4.ftcdn.net/jpg/01/62/69/25/360_F_162692511_SidIKVCDnt5UKHPNqpCb2MSKvfBlx1lG.jpg</image>
+  </page>
+</aid>
